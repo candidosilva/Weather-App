@@ -1,0 +1,43 @@
+.historico {
+    width:600px;
+    background-color: white;
+    padding: 20px;
+    margin: auto;
+    border-radius:10px;
+  }
+
+  .grafico {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width:820px;
+    height:200px;
+    margin:auto;
+    
+  }
+
+  .titulo {
+      display: flex;
+      justify-content: center;
+      margin-bottom: 20px;
+  }
+  
+  .historico-dia {
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .historico-temp {
+      width:200px;
+      display:flex;
+      justify-content: space-between;
+  }
+
+  .red {
+    color:rgb(255, 96, 96);
+  }
+
+  .blue {
+    color:rgb(75, 75, 255);
+  }
