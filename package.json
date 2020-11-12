@@ -1,6 +1,7 @@
 {
   "name": "lbc-system-test",
   "version": "0.1.0",
+  "homepage": "https://candidosilva.com.br/weatherapp",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",

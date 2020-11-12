@@ -4,7 +4,7 @@ import './historico.css';
 
 const apiHistorico = {
     key: "048ed0493d774829bdd144524201011",
-    base: "http://api.weatherapi.com/v1/history.json?key=",
+    base: "https://api.weatherapi.com/v1/history.json?key=",
     
   }
 
